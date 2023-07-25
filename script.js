@@ -11,7 +11,7 @@ var ground = new Ground(0,700,500,200,'assets/images/ground.png');
 var ground2 = new Ground(500,700,500,200,'assets/images/ground.png');
 
 //passaro
-var bird = new Bird(150,300,63,51,'assets/images/bird0.png');
+var bird = new Bird(120,300,63,51,'assets/images/bird0.png');
 
 //canos
 var pipe1=new Pipe(300,500,96,358,'assets/images/pipe1.png');

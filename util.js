@@ -60,8 +60,8 @@ class Ground extends Bg{
 
 }
 class Bird extends Obj{
-    vel=2;
-    gravity=1;
+    vel=1;
+    gravity=0.5;
     move(){
         if(this.vel < 10){
             this.vel += this.gravity;
