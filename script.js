@@ -14,8 +14,8 @@ var ground2 = new Ground(500,700,500,200,'assets/images/ground.png');
 var bird = new Bird(120,300,63,51,'assets/images/bird0.png');
 
 //canos
-var pipe1=new Pipe(300,500,96,358,'assets/images/pipe1.png');
-var pipe2=new Pipe(300,0,96,358,'assets/images/pipe2.png');
+var pipe1=new Pipe(450,500,96,358,'assets/images/pipe1.png');
+var pipe2=new Pipe(450,0,96,358,'assets/images/pipe2.png');
 
 //moeda
 var coin = new Coin(300,300,45,65,'assets/images/0.png');
